@@ -30,6 +30,8 @@ description: "Une page d'amour is the eighth novel in the Rougon-Macquart series
   \ the ancestress of the Rougon-Macquart family. Hélène's brothers are François Mouret,\
   \ the central character of La conquête de Plassans, and Silvère Mouret, whose story\
   \ is told in La fortune des Rougon.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13695#A-Love-Episode
 gutenberg_issued: '2004-10-11'
 gutenberg_type: Text
 identifiers:
